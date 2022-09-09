@@ -1,8 +1,12 @@
 #include <stdio.h>
 
+//función para calcular volumen de un cilindro
 float volumen(float r, float h, float PI);
 
+
+//función para calcular pa superficie de un cilindro
 float superficie (float r, float h, float PI);
+
 
 int main() {
     const float PI = 3.14159;
